@@ -1,2 +1,2 @@
-# python_node_integration
-Executing python scripts using nodejs
+# node_external_integration
+Executing python scripts, command line scripts using nodejs

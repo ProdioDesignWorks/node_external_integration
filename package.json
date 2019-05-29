@@ -1,21 +1,21 @@
 {
-  "name": "python_node_integration",
+  "name": "node_external_integration",
   "version": "1.0.0",
-  "description": "Executing python scripts using nodejs",
+  "description": "Executing python scripts, command line scripts using nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProdioDesignWorks/python_node_integration.git"
+    "url": "git+https://github.com/ProdioDesignWorks/node_external_integration.git"
   },
   "author": "Pawan Wagh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ProdioDesignWorks/python_node_integration/issues"
+    "url": "https://github.com/ProdioDesignWorks/node_external_integration/issues"
   },
-  "homepage": "https://github.com/ProdioDesignWorks/python_node_integration#readme",
+  "homepage": "https://github.com/ProdioDesignWorks/node_external_integration#readme",
   "dependencies": {
     "python-shell": "^1.0.7"
   }

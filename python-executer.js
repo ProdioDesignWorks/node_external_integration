@@ -51,7 +51,7 @@ const runPythonScript = (scriptPath, pythonPath, args) => {
 	});
 };
 
-exports.runPythonScript = (scriptFp = '', { pythonFp = '', args = [] }) => runPythonScript(scriptFp, pythonFp, args);
+exports.runPythonScript = (scriptFp = '', { pythonPath = '', args = [] }) => runPythonScript(scriptFp, pythonPath, args);
 
 
 

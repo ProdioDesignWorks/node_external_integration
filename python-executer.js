@@ -32,7 +32,6 @@ const runPythonScript = (scriptPath, pythonPath, args) => {
 
 		    // results is an array consisting of messages collected during execution
 		    // i.e. all print statements
-
 		    if(results.length > 1) {
 		    	//Multiple print statements are used in python file
 		    	return resolve(results);
